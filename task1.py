@@ -1,3 +1,3 @@
 def task1():
     None
-print(1)
+print(None)
